@@ -102,6 +102,10 @@ header .user img{
     border:.7rem solid var(--yellow);
 }
 
+.user img:hover{
+    transform: scale(1.2);
+}
+
 header .user .name{
     font-size: 3.5rem;
     color:#fff;
